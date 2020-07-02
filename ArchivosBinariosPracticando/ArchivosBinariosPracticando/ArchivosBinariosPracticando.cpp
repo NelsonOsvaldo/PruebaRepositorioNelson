@@ -1,3 +1,9 @@
+/*
+
+ESTA ES UNA SEGUNDA VERSION DE PRUEBA
+*/
+
+
 #include <iostream>
 #include <fstream>  // manejo de archivos
 #include <string> // para disponer de la funcion strcpy ( arg1, arg2 );
