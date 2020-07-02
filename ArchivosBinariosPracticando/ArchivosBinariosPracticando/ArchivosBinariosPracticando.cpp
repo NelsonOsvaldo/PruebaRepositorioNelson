@@ -3,7 +3,7 @@
 ESTA ES UNA SEGUNDA VERSION DE PRUEBA
 */
 
-
+///////////// algun cambio al archivo para pruebas
 #include <iostream>
 #include <fstream>  // manejo de archivos
 #include <string> // para disponer de la funcion strcpy ( arg1, arg2 );
